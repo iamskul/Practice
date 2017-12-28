@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+#Adding a comment for the git test 
+
 import gdax
 import time
 import timeit
